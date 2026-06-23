@@ -75,9 +75,8 @@ I am a passionate **Computer Science Engineer** specializing in Data Science, wi
 
 Let's discuss technology, projects, or potential opportunities!
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile-url](https://linkedin.com) *(⚠️ Note: Replace this link with your actual LinkedIn profile URL)*
-* 📧 **Email:** [your.email@example.com](mailto:your.email@example.com) *(⚠️ Note: Replace this with your professional email address)*
-
+* 💼**LinkedIn:** [linkedin.com/in/yaswitha-indupuru-b8b721271](https://www.linkedin.com/in/yaswitha-indupuru-b8b721271)
+* 📧 **Email:**[yaswithaindupuru@gmail.com](mailto:yaswithaindupuru@gmail.com)
 ---
 
 <p align="center">
